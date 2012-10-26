@@ -7,4 +7,7 @@ Test page for documentation section1
 * md
 * list
 
+*single asterisks*
+
+Check in [Google][]
 [Google]: http://google.com/
