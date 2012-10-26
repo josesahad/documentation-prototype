@@ -3,6 +3,6 @@ SECTION1
 
 Test paige for documentation section1
 
-*very happy
-*md
-*list
+* very happy
+* md
+* list
