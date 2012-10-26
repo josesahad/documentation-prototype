@@ -1,2 +1,3 @@
-documentation-prototype
-=======================
+SECTION2
+========
+Another docs page
