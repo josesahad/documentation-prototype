@@ -11,3 +11,5 @@ Test page for documentation section1
 
 Check in [Google][]
 [Google]: http://google.com/
+
+Example
