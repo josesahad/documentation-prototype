@@ -1,0 +1,1 @@
+The Salesforce Connector will allow to connect to the Salesforce application. Almost every operation that can be done via the Salesforce API can be done thru this connector. This connector will also work if your Salesforce objects are customized with additional fields or even you are working with custom objects.
