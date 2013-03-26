@@ -1,0 +1,8 @@
+org.mule.yammer
+org.mule.yammer.adapters
+org.mule.yammer.agents
+org.mule.yammer.config
+org.mule.yammer.oauth
+org.mule.yammer.process
+org.mule.yammer.processors
+
